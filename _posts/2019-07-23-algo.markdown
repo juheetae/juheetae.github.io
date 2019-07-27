@@ -3,14 +3,14 @@ layout: post
 title: "pinspot"
 date: 2019-07-26
 description: 
-image: /assets/images/pinspot01.gif
+image: /assets/images/font1.jpg
 author: Thomas Vaeth
 tags: 
   - Squid
   - Mixtape
 ---
 
-![아무거나:이건 알트태그 : 이미지에대한설명](/assets/images/pinspot.gif)
+![아무거나:이건 알트태그 : 이미지에대한설명](/assets/images/font1.jpg)
 
 #타이틀
 ##타이틀
@@ -22,7 +22,7 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![pinspot01](/assets/images/pinspot01.gif)
+![pinspot01](/assets/images/font1.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
